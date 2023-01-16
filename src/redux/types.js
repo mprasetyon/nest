@@ -1,0 +1,2 @@
+export const CURRENT_PAGE = "CURRENT_PAGE";
+export const CURRENT_PAGESIZE = "CURRENT_PAGESIZE";
